@@ -1,0 +1,1415 @@
+total jobs: 31
+name:Senior Software Engineer
+day:16d
+location:🌏 Worldwide
+pay:💰 $60k - $400k
+tags:Engineer;Developer;JavaScript;Full Stack;React;GraphQL;Typescript;Node
+company:LoanCrate
+description:What is LoanCrate?
+href:https://www.remoteok.com/remote-jobs/remote-senior-software-engineer-loancrate-201297
+
+name:Software Engineer Backend
+day:22d
+location:🌏 Worldwide
+pay:💰 $130k - $180k
+tags:Developer;JavaScript;React;Ruby;Postgres;Docker;GraphQL;Typescript;Redis
+company:Sticker Mule
+description:About Sticker Mule
+Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.
+See more about our teams here
+We offer
+Remote work with flexible schedules
+A privately owned, low-stress culture.
+A fun "no bullshit" work environment
+We like you to know
+Docker
+Ruby
+Rails
+TypeScript
+NodeJS
+GraphQL
+Postgres
+Redis
+Familiarity with React
+Excellent communication skills (English)
+Degree in Computer Science or equivalent practical experience
+Challenges
+Improve and expand our GraphQL APIs
+Migrate a large Rails code base to NodeJS services
+Maintain optimal back-end performance
+Compensation and benefits
+Salary: $135k+ based on experience
+$20,000 signing bonus
+4 weeks vacation + holidays based on your country of residence
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-backend-sticker-mule-183322
+
+name:Software engineer
+day:21d
+location:🌏 Worldwide
+pay:💰 $140k - $150k
+tags:Developer;JavaScript;React;Ruby;Node;Postgres;Docker;GraphQL;Typescript;Redis;Next
+company:Sticker Mule
+description:About Sticker Mule
+Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.
+See more about our teams here
+We offer
+Remote work with flexible schedules
+A privately owned, low-stress culture.
+A fun "no bullshit" work environment
+We like you to know
+Docker
+NextJS
+TypeScript
+Excellent communication skills (English)
+Degree in Computer Science or equivalent practical experience
+Challenges
+Improve and expand our React shared components gallery
+Maintain optimal front-end performance on desktop and mobile
+Compensation and benefits
+Salary: $135k+ based on experience
+$20,000 signing bonus
+4 weeks vacation + holidays based on your country of residence
+OUTDO
+Salary and compensation
+Benefits
+🌎 Distributed team
+⏰ Async
+🏖 Paid time off
+🖥 Home office budget
+⬜️ No whiteboard interview
+👀 No monitoring system
+🎅 We hire old (and young)
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-sticker-mule-154359
+
+name:Senior Frontend Engineer
+day:7d
+location:🌎 North America
+pay:💰 $120k - $150k
+tags:Developer;JavaScript;Front End;Design;React;CSS;HTML
+company:HockeyStack
+description:HockeyStack
+We launched the final iteration of the product last year. We are now scaling our product and building out new features.
+Technical Expectations
+m
+igrate our current frontend (Pug + JS + CSS) to React.
+But we also expect you to:
+Have an eye for sleek and pixel-perfect design (ex. Linear, Notion, Stripe)
+Have enough Figma skills to design what you think
+Think about the UX of our platform
+...and actually execute these ideas in code
+We want to make B2B analytics as accessible as possible but also have a cool product to show off ;) You will work directly with the founders to make HockeyStack the coolest product on the market.
+Non-technical Expectations
+Excellent communication skills (English) is a must.
+We aren’t looking for someone with 20 years of experience, we are looking for smart people who are up for a challenge.
+You should have experience with at least a CRM, an analytics tool, or a MarTech tool of some kind.
+you should have some context on this industry beforehand
+This also means that your role within the company is bound to grow and gain importance over time.
+Why HockeyStack?
+The company is very young for where we want to be, but although this may scare some people off, we believe that this is a tremendous opportunity to actually build something greater than all of us. We have the fastest team in our market right now and we want to keep it that way. We are already becoming a market leader in the attribution space, but we need more teammates (aka you) for our more ambitious goals.
+UPLIFTING
+Salary and compensation
+Benefits
+🌎 Distributed team
+⏰ Async
+🖥 Home office budget
+⬜️ No whiteboard interview
+href:https://www.remoteok.com/remote-jobs/remote-senior-frontend-engineer-hockeystack-205689
+
+name:Senior Full Stack JavaScript Developer
+day:26d
+location:🇪🇺 Europe
+pay:💰 $120k - $140k
+tags:Developer;JavaScript;React;Node;Postgres;Typescript
+company:DebugBear
+description:DebugBear
+−
+No recruiters please
+What we do
+DebugBear helps companies monitor and optimize the loading speed of their websites. We run continuous performance tests, generate detailed technical reports, and send out alerts when there's a problem.
+Our users are a mix of developers, technical SEOs, and business owners.
+The role
+You will:
+Be responsible for most of the development work on our product.
+Consider user experience, implementation costs, and maintainability
+Take on a variety of technical tasks and complete them successfully, sometimes in the absence of established processes
+Be mindful of customer needs to understand and challenge requirements and solutions
+The current team consists of the technical founder and one part-time developer. In this role you'll have a significant impact on the codebase and product.
+Working at DebugBear
+We value building a stable product that doesn't break unexpectedly, especially not outside work hours. That means working with proven technologies where possible, writing automated tests, and setting up monitoring to detect problems early.
+While there is some flexibility with work hours, this is not an asynchronous role. Frequent communication is expected.
+Collaboration is mostly through Slack and GitHub issues. We usually have 3 to 4 calls a week, though that's pretty flexible.
+Tech stack
+Here are some of the technologies we use:
+Node, TypeScript, Express
+Postgres, ClickHouse
+React, Webpack, Sass CSS
+Jest, Puppeteer
+Google Cloud
+Application process
+Introductory call discussing the role and your experience
+Technical interview (Live coding task)
+Final interview (Mostly technical questions)
+Reference check
+Offer
+href:https://www.remoteok.com/remote-jobs/remote-senior-full-stack-javascript-developer-debugbear-195916
+
+name:Software engineer
+day:5d
+location:🌏 Worldwide
+pay:💰 $120k - $130k
+tags:Developer;JavaScript;React;Docker
+company:Stimulus
+description:About Stimulus
+Stimulus
+We offer
+Remote work with flexible schedules
+A privately owned, low-stress culture.
+A fun "no bullshit" work environment
+We like you to know
+Docker
+NextJS
+React
+NodeJS
+GraphQL
+Redis
+Compensation and benefits
+Salary: $120k+ based on experience
+$20,000 signing bonus
+4 weeks vacation + holidays based on your country of residence
+COMPATIBLE
+Salary and compensation
+Benefits
+🌎 Distributed team
+⏰ Async
+🏖 Paid time off
+🖥 Home office budget
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-stimulus-132047
+
+name:Fullstack developer senior
+day:3d
+location:🇪🇺 Europe
+pay:💰 $80k - $120k
+tags:Developer;JavaScript;Golang;React;Ruby;Python;Node;React Native
+company:CloudDevs
+description:
+href:https://www.remoteok.com/remote-jobs/remote-fullstack-developer-senior-clouddevs-207318
+
+name:API Engineer
+day:26d
+location:Worldwide
+pay:💰 $75k - $120k*
+tags:Web3;React;GraphQL;Front-End;Back-End;Software;Code;JavaScript;API;Engineer;Fullstack
+company:QuickNode
+description:QuickNode is a cloud-based infrastructure company that powers the blockchain ecosystem.
+Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. QuickNode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The QuickNode team has over 90 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily.
+We are a global remote first company HQ'd in Miami, Florida.
+The Role
+We are looking for a Fullstack engineer to work primarily on APIs who can deliver value and impact to the team in a fast and nimble way. You will have the opportunity to work with a great deal of different technologies including Typescript, NodeJS, GraphQL, RPC, REST, Go, React and more.
+What You'll Do
+Build new features and products for GraphQL and RPC APIs
+Optimize and build back-end services for performance and scale
+Work on SDKs that wrap APIs
+Participate in code designs, planning meetings, and code reviews
+Write high quality software using
+Analyze/debug performance issues
+Create robust software that can be depended on by other teams
+Design & implement common patterns, services, components and frameworks
+Leverage best-practices in continuous integration and delivery to improve quality and velocity
+What You'll Bring
+Technical Expertise in Typescript, NodeJS, SQL
+Experience building APIs & micro-services
+Experience building high quality documentation
+Ability to rapidly add value to company
+Ability to learn and adapt quickly in a fast pace environment
+Bonus
+Experience in Go
+Experience in containerizing applications, CI/CD pipelines, k8s
+Experience in building public APIs
+Experience in React, front-end development, creating and publishing javascript packages
+We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, React, GraphQL, JavaScript, API and Engineer jobs that are similar:
+$75,000 — $120,000/year
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-api-engineer-quicknode-196302
+
+name:Associate Frontend Engineer
+day:3mo
+location:🌏 Probably worldwide
+pay:💰 $68k - $125k*
+tags:Front End;React;System;Software;Code;Web;Scrum;JavaScript;Git;Medical;Health;Healthcare;Engineer;Full-Time
+company:RVO Health
+description:AT A GLANCE
+RVO Health is building a suite of integrated products that enable data-driven, digital experiences for our brands and partners. You will work with next-generation technologies that change how millions of users connect, explore, and interact with these brands. Our engineers work on a variety of things like information collection and retrieval, distributed computing, large-scale system design, networking, data storage, and machine learning.
+In addition to building applications that can hold up to our business's scale & growth, our team of engineers works collaboratively with the business leaders to come up with innovative solutions to grow the business. We love to build high-quality software and believe that there is real value in developing software to be easily understood, maintained, and extended. We are all about teamwork, accountability, innovation, and a customer-first approach. We work hard but do so in a collaborative, fun, and flexible work environment.
+As a member of this remote team, you will have the opportunity to work on mission-critical projects directly impacting the evolution of our business. You will be able to apply your programming skills towards building high throughput transactional services and highly performant web experiences. We always explore new technologies and engineer better solutions for demanding business needs.
+What You’ll Do
+Designing, modifying, developing, writing, testing, and implementing software.
+Taking ownership and responsibility of the work at hand and shepherding code through to production.
+Collaborating with product leaders, business stakeholders, scrum masters, and other developers to deliver a quality product.
+Create applications that are highly-performant, web accessible and meet HIPAA and/or Medicare requirements.
+What We’re Looking For
+1+ years of software development experience
+Familiarity with Git & git workflows
+Strong semantic HTML5, CSS, and JavaScript fundamentals
+ReactJS familiarity
+Experience working in a Test-Driven Development (TDD) and Continuous Integration/Continuous Delivery (CI/CD) environments
+Experience writing high-quality documentation
+Nice to Haves
+NextJS or other React framework experience
+Tailwind CSS
+Pursuant to various state Fair Pay Acts, below is a summary of compensation elements for this role at the company. The following benefits are provided by RVO Health, subject to eligibility requirements.
+Starting Salary: $60,000 - $100,000
+*Note actual salary is based on geographic location, qualifications and experience
+Starting Salary: $60,000 - $100,000
+*Note actual salary is based on geographic location, qualifications and experience
+Health Insurance Coverage (medical, dental, and vision)
+Health Insurance Coverage (medical, dental, and vision)
+Life Insurance
+Life Insurance
+Short and Long-Term Disability Insurance
+Short and Long-Term Disability Insurance
+Flexible Spending Accounts
+Flexible Spending Accounts
+Paid Time Off
+Paid Time Off
+Holiday Pay
+Holiday Pay
+401(k) with match
+401(k) with match
+Employee Assistance Program
+Employee Assistance Program
+Paid Parental Bonding Benefit Program
+Paid Parental Bonding Benefit Program
+Who We Are:
+Founded in 2022, RVO Health is a new healthcare platform of digital media brands, services and technologies focused on building relationships with people throughout their health & wellness journey. We meet people where they are in their personal health journeys and connect them with both the information and the care they need. RVO Health was created by joining teams from both Red Ventures and UnitedHealth Group’s Optum Health. Together we’re focused on delivering on our vision of a stronger and healthier world.
+RVO Health is comprised of Healthline Media (Healthline, Medical News Today, Psych Central, Greatist and Bezzy), Healthgrades, FindCare and PlateJoy; Optum Perks, Optum Store and the virtual coaching platforms Real Appeal, Wellness Coaching, and QuitForLife.
+We offer competitive salaries and a comprehensive benefits program for full-time employees, including medical, dental and vision coverage, paid time off, life insurance, disability coverage, employee assistance program, 401(k) plan and a paid parental leave program.
+RVO Health is an equal opportunity employer that does not discriminate against any employee or applicant because of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or any other basis protected by law. Employment at RVO Health is based solely on a person's merit and qualifications.
+We are committed to providing equal employment opportunities to qualified individuals with disabilities. This includes providing reasonable accommodation where appropriate. Should you require a reasonable accommodation to apply or participate in the job application or interview process, please contact accommodations@rvohealth.com.
+li-remote
+LI-KH1
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to React, Scrum, JavaScript, Git, Medical and Engineer jobs that are similar:
+$67,500 — $125,000/year
+Benefits
+💰 401(k)
+🏖 Paid time off
+href:https://www.remoteok.com/remote-jobs/remote-associate-frontend-engineer-rvo-health-169738
+
+name:Backend Engineer
+day:19d
+location:Worldwide
+pay:💰 $70k - $123k*
+tags:Web3;React;GraphQL;Redis;System;Strategy;Health;Engineer;Backend
+company:Mirror
+description:At Mirror, our mission is to use web3 technology in order to reimagine the ways people publish, read and share writing online. We are a small, passionate team with a breadth of experience that has been building in web3 for years. Together, we aspire to build products that are beautiful and intuitive, without compromising on user sovereignty or decentralization.
+The Company
+Mirror is a web3-native publishing platform that powers a new writing ecosystem. Writers on Mirror don’t just publish, they build community and fund their writing by minting their work as Writing NFTs — collectible, minted versions of posts on Mirror. Readers on Mirror don’t just consume content, they collect it and discover new writers in each other’s collections. All of this happens within a tightly integrated web3 product that is centered around an intuitive editor that allows writers to incorporate smart contract-based economic blocks.
+We've raised close to $14 million from investors that include a16z Crypto, Union Square Ventures, and Variant.
+Responsibilities
+Support product development by developing our backend API
+Requirements
+Experience building and maintaining a production system at scale
+Comfortable with SQL databases
+Experience designing performant and well-tested GraphQL APIs
+Nice to have
+Degree in computer science
+Frontend experience (React, React Native)
+Web3 experience
+No-SQL and Redis experience
+Experience with monitoring tools (Honeycomb, NewRelic, ElasticSearch, etc)
+Salary Range
+$140,000 - $210,000 (based on experience)
+Mirror's Benefits
+Here are some of our benefits:
+Medical, dental, and vision insurance, with 80% of premiums paid by the company
+$3,000 work-from-home/remote office setup stipend
+$150/month home internet and cell phone reimbursement
+Healthcare Flexible Spending Account or Health Savings Account
+Dependent Care Flexible Spending Account
+Short-term and long-term disability insurance, with premiums paid by the company
+$50,000 life insurance and accidental death and dismemberment insurance, with premiums paid by company
+401(k)
+Flexible time off policy
+Three months’ paid baby bonding leave
+Remote-first teamwork with team and community members around the world
+Team offsites for periodic in-person collaborative strategy sessions
+Passionate, supportive team dedicated to learning and growing together in web3
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, React, GraphQL, Redis, Engineer and Backend jobs that are similar:
+$70,000 — $122,500/year
+Benefits
+💰 401(k)
+🤓 Vision insurance
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-backend-engineer-mirror-199867
+
+name:Lead DevOps Engineer
+day:29d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Web3;Crypto;React;System;Security;Support;Software;Test;Code;Scrum;DevOps;Financial;Cloud;Mobile;Lead;Junior;Operational;Excel;Telecom;Reliability;Go;Golang;Health;Engineer
+company:GIANT Protocol
+description:The GIANT Protocol Foundation aims to empower the world to build a more open and inclusive internet. It created the GIANT Protocol to decentralize and democratize access to connectivity and financial services for all. It’s a new web3 telecommunications layer that coordinates, tokenizes, and financializes ownership of the entire telecom ecosystem.
+GIANT Connect is a consumer app powered by GIANT Protocol offering the most fun and rewarding way to stay connected to the Internet. Access inflight wifi on thousands of planes, mobile networks in 120 countries, and 68M free and premium wifi hotspots globally. Earn crypto rewards when you go online and when you don’t.
+Overview
+We are looking for a seasoned Cloud Automation/DevOps engineer, to join our growing team, who specializes in setting up CI pipelines and automating public cloud deployments. In this role you will be primarily improving and/or developing efficient containerized CI/CD pipelines and scalable Infrastructure setup for our platform. Our platform consists of Rust based blockchain modules, full stack projects built with NodeJS, Golang, React etc.
+Responsibilities
+Build CI/CD pipeline configurations to orchestrate provisioning and deployment of both large and small scale systems for blockchain infrastructure using open source containerization tools like Terraform, Docker, Kubernetes, Chef, etc.
+Ensure robustness and reliability through monitoring, visualization, testing, reviewing & documentation.
+Automate monitoring tools to monitor system health and reliability to support high uptime requirements.
+You think about security in all parts of your work
+Work closely with leadership, our product team, and other engineers in roadmapping, architecture, and product discussions.
+Document process and procedures for operational support, lessons learned, diagrams, systems administration guidelines, systems set-up documentation, test plans and results.
+Document decisions and its future impacts.
+Join sprints and scrum calls with our cross-regional team for successful delivery of product.
+Participate in the on-call rotation.
+Guide and mentor junior developers.
+Requirements/Skills
+5+ years of recent experience as Lead DevOps Engineer
+5+ years of experience in DevOps, SRE, Software Development or an equivalent field.
+Deep experience of AWS, Docker, Kubernetes, Helm/Kustomize, Terraform.
+Comfortable with Golang development
+Passionate about security and building productivity tools
+Passionate about solving complex problems and take pride in their code and development standards.
+Effective communication skills: Regularly achieve consensus with peers, and provide clear status updates.
+Ability to work independently and in a team environment.
+Bonus skills
+Familiarity with blockchain and web3 technologies.
+Familiarity with Radius and VPN.
+Company Values
+Thinking in possibilities: We realize that most see the world in terms of what is not possible. We believe the future is made by those who see what is possible. Seeing a path of possibilities requires intellectual curiosity, dedication, and diligence. We are big thinkers and believers but also pragmatists, focused on relentless execution.
+Integrity of word, thought, and action: Integrity is what is behind our words, thoughts, and actions. We help ourselves and others to stay true to why we do things so we can align, together, for the highest purpose.
+Diversity of perspectives: A good discussion is one that ends with all participants feeling that the other participants understood them, even if they had different ideas. This requires trust, vulnerability, and compassion. We believe organizations where people can truly co-create will thrive.
+Winning with purpose: We are mission focused and realize that winning is a requirement to achieve lasting change that benefits everyone. Even though we love to compete, we understand that winning is not the same as success, but is needed to succeed.
+Ownership is key: When we own our successes, failures, best qualities, and flaws, we can truly work in a team, as a team. Ownership unlocks greatness as a team because it enables us to support and be supported.
+The excellence of being: Excellence is an expression of being–of what we want for ourselves and others. It is passion turned into action. We share a desire to learn and excel while being comfortable with failing. Excellence comes when we’re courageously open about what we desire for this world.
+Unity in consciousness: We understand that we are all one. We are all working towards moving humanity forward in unique ways. We firmly believe that there is infinitely more that unites us than divides us, and our work is to bring that out in the world.
+Benefits:
+Competitive salary with generous token plan
+Unlimited PTO and flexible remote options
+Health benefits: medical, dental, vision, EAP, virtual medicine, and more
+401k with company match
+Annual professional development budget
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, Crypto, React, Scrum, DevOps, Cloud, Mobile, Junior, Excel, Golang and Engineer jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+💰 401(k)
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-lead-devops-engineer-giant-protocol-194739
+
+name:Software Engineer
+day:29d
+location:Remote (Worldwide)
+pay:💰 $70k - $120k*
+tags:Software;Web3;NFT;Ethereum;React;Support;Developer;Mobile;Lead;Golang;Engineer
+company:Status SNT
+description:About Status
+Status is building the tools and infrastructure for the advancement of a secure, private, and open web3. 
+With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.
+As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community. 
+As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).
+As a team, Status has been completely distributed since inception. Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe. 
+We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.
+About Waku
+We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.
+It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.
+We are developing 3 open source implementations of Waku:
+Nwaku. https://github.com/status-im/nwaku: the reference implementation and service node,
+Js-waku, https://github.com/waku-org/js-waku: for the browser
+Go-waku: https://github.com/waku-org/go-waku: to integrate as a library in native applications
+We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.
+We are looking for a developer relation engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.
+Key Responsibilities
+Design, implement and document Waku Golang libraries (go-waku)
+Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku.
+Implement new protocols as defined by the Research Team
+Investigate and fix issues in go-waku and upstream libraries such as go-libp2p
+Optimize go-waku and upstream libraries for the mobile/React Native
+Support dApp developers in using go-waku and Waku Golang libraries
+You ideally will have
+Have experience building applications with complex logic, cutting edge technology or applied research.
+Have demonstrated the ability to learn new concepts and technologies quickly, you are a polyglot.
+Have experience maintaining native library for React Native.
+Have experience building libraries in Golang, for network and mobile environments.
+Have passion for blockchain and decentralized technologies and understand how they work.
+Have good communication skills (written and conversational).
+Have a strong alignment to our principles: https://status.im/about/#our-principles
+Bonus points if
+Are already familiar with the Ethereum community,
+Have experience with go-libp2p or other libp2p implementations
+Have experience with C-Bindings & Cgo
+In Web3 or blockchain development
+Working for an open source organization
+Working remotely
+[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].
+Hiring Process
+The hiring process for this role will be:
+Interview with our People Ops team
+Technical with Waku Product and js-waku lead
+Technical & Culture Interview with a Member of the Vac & Waku Product Teams
+Interview with a Program Lead
+Compensation
+The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, React, Mobile, Golang, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Location
+Remote (Worldwide)
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-status-snt-194725
+
+name:Sora Schools Software Engineer Flutter Direct Hire
+day:28d
+location:Global
+pay:💰 $70k - $120k*
+tags:Software;Design;React;System;Back-End;Consulting;Technical;Writer;Support;UX;Code;Web;Quality Assurance;Flutter;Node. JS;Mobile;Management;Engineer;Backend
+company:Braintrust
+description:ABOUT US:
+Braintrust is a user-owned talent network that connects you with great jobs with no fees or membership costs—so you keep 100% of what you earn.
+ABOUT THE HIRING PROCESS:
+When you join Braintrust, you will be invited to a screening process for Braintrust to learn more about your previous work experiences. Once completed, you will have access to the employer for this role and other top companies that seek high-quality talent. Apply to this job to kick off the process.
+JOB TYPE: Direct Hire Position (no agencies/C2C - see notes below)
+LOCATION: Remote - Work from anywhere (Time Zone: EST | Partial overlap)
+SALARY: $65,000 – $100,000/yr
+ESTIMATED DURATION: 40hr/week
+ESTIMATED DURATION: 40hr/week
+THE OPPORTUNITY
+We’re looking for candidates with strong track records of putting mobile and desktop apps to work and bringing products to life. You should be experienced in Flutter and backend with a Postgres/Node stack.
+We're a remote company so the bulk of our work is written – from the code and interfaces we design, to the pull request discussions and requests for comments we make – being a good writer is important. Effective, concise writing leads to effective, concise code.
+We do good work together. That comes with direct feedback, openness to each others’ experience, and willingness to show up for each other as well as for the technical work at hand. We’re in this for the long term.
+While you'll report to a team lead, Sora Schools is a company where self managers thrive. We're quick to trust that you can do it, and here to support you in making it so. You can expect to be counted on. You can expect to do your best work and build a career here.
+What you’ll be working on
+As a Flutter Engineer at Sora Schools, you'll work to build new product features and keep our app fast, secure, and reliable. But, depending on your interests and skills, you may do more feature work or more infrastructure work but the boundaries are fluid, and people can switch work scopes.
+Right now, we're maintaining our LMS Sora Home 1.5 in web tech, and building its next mobile-first version Sora Home 2.0. Our web version is currently built as with a Node.js back-end React front-end, and going forward, we're all-in on Flutter mobile and desktop apps.
+We use a variant of Shape Up methodology so you won't have a backlog of tickets to blindly check. Your work shall be deliberate. You'll receive entire projects to tackle end-to-end in 5 week cycles where you'll do your own discovery, both on the code and on the product, before you dive into writing your own code, Scope Hammering, testing, debugging, refactoring and shipping! But you'll not be alone. You'll have full support of QA and Sora seasoned engineers to help you along the way.
+Here are some real examples of mobile work we’ve done lately that might help you to get a better idea of what the job could entail:
+Setup a new Flutter project with CI/CD setup and local cache, state management and routing libraries
+Setting up a design system package and implementing our first components
+Create a mobile specific endpoint in our backend with Prisma and Node
+Develop a simple calendar component that properly handles conflicting events
+Coding a mobile Google Authentication flow
+All of those also were carefully tested with unit tests, integration tests and ultimately manual tests to ensure the UX is actually great!
+This is a fully remote position. You’re free to work where you work best: home office, co-working space, coffeeshops. We are primarily hiring from the Americas but as long as your workday can have at least a 4-hour overlap with an Atlanta workday (eastern time zone 9-5), it can work. We don't want anyone working a graveyard shift to make that happen, though.
+Apply Now!
+C2C Candidates: This role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, React, Consulting, Flutter, Mobile, Engineer, Backend and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Location
+Global
+href:https://www.remoteok.com/remote-jobs/remote-sora-schools-software-engineer-flutter-direct-hire-braintrust-195238
+
+name:Software Engineer Mobile
+day:27d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Software;Web3;Defi;Crypto;React;Swift;Technical;Support;Developer;Financial;C;Mobile;Engineer;Engineering;Full-Time
+company:Phantom
+description:Our crypto wallet is used by millions of people to access apps and financial services built on the Solana blockchain. As a mobile engineer at Phantom you’ll be doing everything from creating delightful user experiences, contributing to cross-platform client infrastructure, and crafting web3 developer SDKs. Join us on our mission to make the digital economy safe and easy to use for everyone.
+This role is fully remote; however, we’re only open to candidates based in US and EU time zones
+React Native / Swift / Objective C / Kotlin
+Solana web3.js / ethers.js
+Responsibilities
+Push forward our mobile efforts: You’ll be directly impacting the development of our flagship mobile app in React Native, working closely with the founders to constantly improve the product
+New initiatives and products: You will be leading initiatives to add support for other blockchains to Phantom, and to launch new complementary products or infrastructure.
+Interfacing with users: You will be interfacing directly with end-users and developers building on Phantom. Supporting them and collecting feedback to inform the direction of the product.
+Team building: You will be working with the team to create and foster a culture of raising the bar with each new hire.
+Qualifications
+Bachelors degree in Computer Science or related technical field or equivalent practical experience
+5+ years full-time software engineering experience
+1+ years full-time experience with React Native
+Demonstrated interest in open and community-driven platforms
+Nice-To-Have: experience in a blockchain based project
+Opportunity
+We are a team of experienced builders with a ton of traction in a big and growing market – our users are so passionate they were hacking their way into our private beta. Only months after launching we've acquired millions of users, and are adding hundreds of thousands every week. We are by far the leading wallet on Solana, and plan to expand to other chains soon.
+On top of that, there has never been a better time to work in crypto and on wallets in particular.
+Wallets play a pivotal role: Wallets are responsible for on-boarding new users into crypto, and can make or break the user experience.
+We are moving to a multi-chain world: New blockchains and scaling solutions are coming online and gaining traction, but are lacking decent wallets and bridges.
+DeFi & NFTs are exploding : Interest in DeFi and NFTs has exploded, yet they are still an after-thought in existing wallets.
+Benefits
+Competitive salary and equity.
+Comprehensive insurance (medical/dental/vision) — 100% covered.
+Stipend for your ideal remote / WFH set-up: laptop, headphones, and any other work gear you may need.
+Flexible hours and a long-standing, supportive remote environment.
+Monthly co-working space and mobile phone expense.
+Unlimited vacation: Take time when you need it (and we really mean it).
+401(k) retirement plan (although we are not matching at this time)
+Wellness benefit
+Daily lunch benefit
+The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, Defi, Crypto, React, Swift, C, Mobile, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+💰 401(k)
+🏖 Unlimited vacation
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-mobile-phantom-195776
+
+name:JS Frontend Engineer
+day:25d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Front End;Design;Web3;Crypto;React;Software;UI;Web;JavaScript;Typescript;Engineer
+company:WalletConnect
+description:Description
+WalletConnect is the web3 communications protocol. Since our founding in 2018, we have empowered an increasing volume of connections between wallets and apps, linking the web3 ecosystem together and fueling brand-new user experiences. We began with a single API, and are now building a suite of web3 APIs including Chat, Push, Auth, and more. In 2022, we raised our $>20M Series A/ecosystem round from USV, 1kx, Coinbase, Shopify, and other investors and customers.
+To learn more about our plans to create a multi-API messaging network for web3, take a look at our presentation at EthCC.
+The Role:
+We’re looking for a frontend aficionado with passion for the smallest details to help build delightful web experiences for millions of users. This includes framework neutral tools such as web3modal.com which are served by other developers to end users as well as WalletConnect products such as our chat application that are directly served to end-users. In order to delight developers you will get to develop some framework neutral tools that can be consumed by React/Vue/VanillaJS/etc apps.
+Responsibilities:
+Work closely with our design team in the conceptualization/ideation of new products/features
+Think deeply through and deliver a compelling end-user UX
+Deliver software in TypeScript using web components/React/NextJS
+Translate designs from Figma into reusable and optimized ui components (react / vanilla)
+Must have:
+3+ years of experience as frontend developer
+Strong portfolio of delightful web applications
+Solid written/async and verbal communication skills
+Nice to have:
+Domain experience in crypto is a plus
+Experience in building framework agnostic tools is a plus
+Experience in React Native is a plus
+Open source contributions are a plus
+Benefits
+Fully remote position with flexible timezone (CET/EST preferred)
+Competitive salary
+Company equity
+Remote work allowance
+Token offering
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, Web3, Crypto, React, Typescript, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+⏰ Async
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-js-frontend-engineer-walletconnect-196809
+
+name:DTN Senior Software Engineer Direct Hire
+day:25d
+location:Global
+pay:💰 $70k - $120k*
+tags:Software;React;Embedded;Consulting;Support;Developer;UI;Web;Financial;C++;Math;Leader;Senior;Analytics;Engineer
+company:Braintrust
+description:ABOUT US:
+Braintrust is a user-owned talent network that connects you with great jobs with no fees or membership costs—so you keep 100% of what you earn.
+ABOUT THE HIRING PROCESS:
+When you join Braintrust, you will be invited to a screening process for Braintrust to learn more about your previous work experiences. Once completed, you will have access to the employer for this role and other top companies that seek high-quality talent. Apply to this job to kick off the process.
+JOB TYPE: Direct Hire Position (no agencies/C2C - see notes below)
+LOCATION: Remote - United States only (Time Zone: CST | Full day overlap)
+SALARY: $140,000 – $160,000/yr
+ESTIMATED DURATION: 40hr/week - Long term
+THE OPPORTUNITY
+Requirements
+DTN is looking for a Senior Software Developer to enhance and maintain an existing Windows application that provides real-time information used by financial traders around the world using a variety of technologies.
+Essential Functions:
+Use Visual C++, Visual Studio, ATL, STL, XML, Templates, Web Services.
+Work effectively both independently and as part of a team.
+Analyze and convert general requirements into solutions that best suit the needs of a wide range of users.
+Partner with the Quality Assurance team. Develop new functionality with a strong emphasis on performance, user experience, maintainability, and reusability.
+Enhance the products charting and analytical capabilities.
+Provide application maintenance and support as required.
+Requirements:
+Strong Windows (Win32) development experience using C++ and templates.
+Good comfort level with Git.
+Strong COM experience
+3+ years of UI experience
+Visual Studio, C++, ATL, STL, XML, Web Services.
+Solid Windows graphics.
+Strong math skills.
+Nice to Have:
+TypeScript / React / Node.
+Working with embedded Edge, which is based on Chromium (Chrome).
+Modern C++.
+Some C#.
+Knowledge of financial markets.
+Experience refactoring.
+What you’ll be working on
+DTN is a global leader providing insights and analytics to our customers to feed, fuel, and protect the world. We help people make critical business decisions that impact the agriculture, oil and gas, trading, and weather industries.
+It’s a difference you’ve likely felt without even knowing it. From the food on your plate to the gas in your car to the last flight you took, chances are a DTN customer made it possible. And that’s just for starters. That’s why we say, “When our customers prosper, we all win.”
+Complete benefits package including health, PTO, maternity/paternity leave, and more
+6% match on 401K
+Possibility of a 10% annual bonus
+Apply Now!
+Braintrust Job ID: 5902
+C2C Candidates: This role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to React, Embedded, Consulting, Senior, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+💰 401(k)
+Location
+Global
+href:https://www.remoteok.com/remote-jobs/remote-dtn-senior-software-engineer-direct-hire-braintrust-196801
+
+!!!FD031502
+name:Software Engineer
+day:24d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Crypto;Defi;Blockchain;Web3;Software;Design;React;Technical;Test;UI;JavaScript;Finance;Fintech;Typescript;Mobile;Engineer;Backend
+company:Cake DeFi
+description:Founded in 2019, Cake DeFi is a leading decentralised finance services provider and Southeast Asia’s fastest growing fintech platform. "We Do Crypto. You Do You." - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over $1 billion in assets. We are a profitable, cashflow positive private rocket ship that's just getting ready for take-off. Join us.
+Birthday Research
+Birthday Research (BR) is our Blockchain Research and Development arm. Fuelled by the best minds in the industry, BR seeks to develop best-in-class blockchain innovations with the mission of enabling the next bound of Web3.
+As a pioneering force, our work spans cryptographic research, deep blockchain consensus development, and smart contracts development — with a laser-sharp focus on driving the industry frontier while tackling the most demanding DeFi challenges of today. To date, one of our core contributions, DeFiChain, has garnered over 1 billion USD in total value locked on the layer-1 protocol.
+We are a fast-growing, globally distributed, close-knit team of multi-disciplinary doers and getters. Join Birthday Research today to be a part of the driving force shaping the future of decentralization.
+What you’ll do:
+Collaborate with cross-functional teams, product designers, and managers to design and develop TypeScript based applications using React, React Native, Next.js and/or Node.js.
+Write highly performant codes that are clean, simple, maintainable, and battle-tested with test-driven development (TDD) for maximum test coverage automated from pull request all the way to release.
+Take on active responsibility in creating highly scalable UI Components and/or backend modules for our scaling needs.
+What you’ll need:
+Experience working in a fast pace tech-driven startup as a Software Engineer with at least 2 years of experience or in a similar capacity.
+Strong proficiency in TypeScript or JavaScript with experience working in Web, Node, or Mobile technologies.
+Ability to take full ownership and work independently while collaborating with others in a fast-paced agile and async team.
+A collaborative and resourceful individual with excellent communication skills able to make radical decisions while being empathetic and respectful.
+Willingness to pick up new and emerging bleeding edge blockchain technologies.
+Deep technical understanding of blockchain technologies, cryptography, BIPs, DeFi, UTXO, EVM, or Nakamoto Consensus is highly preferred.
+Experience participating or maintaining in open source software development is highly preferred.
+We want to transform and decentralise finance with tomorrow’s technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.
+We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Crypto, Defi, Blockchain, Web3, Design, React, JavaScript, Finance, Typescript, Mobile, Engineer, Backend and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+⏰ Async
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-cake-defi-197310
+
+name:Golang Developer Wallet Platform
+day:23d
+location:🇸🇬 Singapore
+pay:💰 $70k - $120k*
+tags:Developer;Design;Crypto;Cryptocurrency;React;Back-End;Security;Full-Stack;Technical;Software;Code;Financial;Finance;Mobile;Golang;Engineering;Backend
+company:Binance
+description:Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.
+Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world?
+Binance platform provides a large range of different cryptocurrency services to retail users, high net vault individuals, institutions, and enterprise customers. As a platform backend developer, you must be active in designing and building resilient and robust server-side applications. You should be self-motivated, and be able to proactively push from the start to finish of each feature.
+Responsibilities:
+Join the full life cycle of building crypto wallet platform products including requirement gathering, technical design, coding, testing, deployment, documentation, and support
+Partner with the product manager, DevOps, QA, and teammates to get things done
+Promote technology best practice within the team, and conduct code review for peers
+Requirements:
+At least 2 years of back-end software development with Golang programming language
+At least 2 years and more experience in blockchain industry is required
+Has a Bachelor’s/Master’s degree in computer science, engineering
+Has a Bachelor’s/Master’s degree in computer science, engineering
+Familiar with software frameworks and design patterns
+Familiar with message broker, relational database, micro-service
+Chinese language is needed due to job nature
+Bonus Qualifications:
+Have experience with building security systems in the financial industry
+Have experience with building cryptocurrency products, especially crypto wallets
+Have full-stack engineering experience, familiar with React or React Native or Native mobile development
+LI-Remote
+Working at Binance
+• Do something meaningful; Be a part of the future of finance technology and the no.1 company in the industry
+• Fast moving, challenging and unique business problems
+• International work environment and flat organisation
+• Great career development opportunities in a growing company
+• Possibility for relocation and international transfers mid-career
+• Competitive salary
+• Flexible working hours, Casual work attire
+By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, Crypto, React, Finance, Mobile, Golang, Backend and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Location
+Remote - Singapore
+href:https://www.remoteok.com/remote-jobs/remote-golang-developer-wallet-platform-binance-197818
+
+!!!FSD031501
+name:Senior Software Engineer
+day:22d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Software;Design;React;System;Full-Stack;Technical;Support;Testing;Growth;Code;Web;Voice;Financial;Java;Typescript;Mobile;Management;Senior;Engineer;Engineering;Backend
+company:Stellar
+description:Interested in working on cutting-edge blockchain technology and creating equitable access to the global financial system? Since 2014, the mission-driven team at the Stellar Development Foundation (SDF) has helped fuel the tremendous growth of the Stellar blockchain network, an open-source platform that operates at high-scale today. Developers and companies around the world build on it, and the SDF team is expanding to support the rapidly growing and changing Stellar ecosystem.
+As a Senior Software Engineer on the Wallets team, your goal will be to architect, design and build SDKs that empower developers in the Stellar ecosystem to build their own highly customizable wallets. As the blockchain landscape continues to change and evolve, we want to ensure people can jump into our ecosystem as easily as possible. To do this, you will help build flagship SDKs along with a small team of engineers innovating and building other types of wallets for developers in our ecosystem. 
+Your work on the flagship SDKs will provide users of the Stellar network fully featured SDKs that enable all of the network’s capabilities to be customized by the ecosystem. On top of providing end users the ability to easily interact with the Stellar network, you will also be collaborating with the rest of the team on creating optimal user experiences for Stellar network features. The flagship SDKs are a greenfield project and your opportunity to make a big impact and provide the ecosystem with the tools so they can fully customize and build wallets on the Stellar Network. 
+Stellar is an open network and we encourage developers from all over the world and all skill levels to build with us.
+In this role, you will:
+Work on cutting edge technology at the intersection of blockchain and finance
+Design solutions with developers and ecosystem partners in mind
+Collaborate with Product leaders to create best in class implementations of first of their kind Stellar SDKs
+Work with the product management team to develop features and iterate over time with feedback from users
+Write code using current standards like Typescript, Kotlin, React, and Jest in an open source environment
+Build with modern tools, we'd look to you and your expertise to make those decisions
+Collaborate with team members on code review and design, and contribute to best practices for all of engineering at SDF
+Architect code with an eye for readability as well as scalability
+You have:
+5+ years creating Mobile Apps and/or full-stack and web applications
+Proficiency with Typescript & Kotlin
+Knowledge of backend systems
+Familiarity with databases and data storage
+Knowledge of modern testing libraries
+Independent and results driven. Skilled at working in an environment with dynamic objectives.
+The ability to be a fast learner and a strong problem solver
+Bonus Points if you have:
+React and React Native Experience
+Swift or Java (for Mobile app development)
+Experience deploying web applications using Kubernetes and Docker
+Experience as a tech lead
+We offer competitive pay with a base salary range for this position of $145,000- $190,000 depending on job-related knowledge, skills, experience, and location. In addition, we offer lumen-denominated grants along with the following perks and benefits:
+USA Benefits/Perks:
+Competitive health, dental & vision coverage
+Flexible time off + 15 company holidays including a company-wide holiday break
+Paid parental leave
+Life & ADD
+Short & Long term disability
+FSA & Dependent Care Accounts
+401K (4% match)
+Employee Assistance Program
+Monthly gym allowance
+Daily lunch and snacks in-office
+L&D budget of $1,500/year
+Company retreats
+About Stellar
+Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the world’s financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.   
+ 
+About the Stellar Development Foundation
+The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the world’s financial infrastructure. Founded in 2014, the Foundation helps maintain Stellar’s codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the world’s economic potential through blockchain technology.
+ 
+We look forward to hearing from you!
+ 
+Privacy Policy
+By submitting your application, you are agreeing to our use and processing of your data in accordance with our Privacy Policy.
+ 
+SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, React, Testing, Java, Typescript, Mobile, Senior, Engineer, Backend and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+💰 401(k)
+🏔 Company retreats
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-senior-software-engineer-stellar-198328
+
+name:Senior Software Engineer
+day:22d
+location:Global
+pay:💰 $70k - $120k*
+tags:Software;Design;SaaS;React;Front-End;Front End;Consulting;Technical;Testing;Code;DevOps;JavaScript;Serverless;Cloud;Mongo;Lead;Senior;Junior;Marketing;Engineer;Backend
+company:Braintrust
+description:ABOUT US:
+Braintrust is a user-owned talent network that connects you with great jobs with no fees or membership costs—so you keep 100% of what you earn.
+ABOUT THE HIRING PROCESS:
+When you join Braintrust, you will be invited to a screening process for Braintrust to learn more about your previous work experiences. Once completed, you will have access to the employer for this role and other top companies that seek high-quality talent. Apply to this job to kick off the process.
+JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)
+LOCATION: Remote - Work from anywhere (TimeZone: CST | Partial overlap)
+HOURLY RANGE: Our client is looking to pay $75 – $100/hr
+ESTIMATED DURATION: 40h/week - Long-term
+ESTIMATED DURATION: 40h/week - Long-term
+THE OPPORTUNITY
+Responsibilities
+Ship clean, well-tested, and highly observable code to production on a regular basis
+Participate in planning to iterate and continuously improve the product, helping to make strategic and technical decisions as our client scales their platform
+Perform code reviews and mentor junior engineers
+Collaborate on design specifications and communicate trade-offs of different approaches
+Troubleshoot production issues
+Write clear technical documentation
+Qualifications
+Expert understanding of JavaScript and Node.js
+5+ years experience with JavaScript and Node.js
+2+ years of experience with TypeScript
+Ability to write front-end code as needed
+Understanding of serverless / microservice / cloud infrastructure and data pipelines
+Strong experience writing unit tests
+Experience publishing npm modules
+Experience with git, pull requests, and automated testing
+Experience working on a small team, where clear, efficient, and respectful communication is critical
+Bonus Points For…
+Vue.js or React experience
+Familiarity with Ruby
+Experience with using MongoDB and AWS
+Experience working and integrating with third-party APIs
+Experience working in a DevOps environment using automated builds, testing and deployment
+Company Overview
+Our client is the SaaS platform for consent-based marketing.
+Their comprehensive product suite empowers companies across industries to take real-time action on their leads, protect themselves from litigation by documenting proof of consent, and save money by providing new levels of data insights and control.
+Their mission is to make consent-based marketing the best channel for customer acquisition.
+Job Summary
+They’re looking for a senior level full stack engineer to work on their Accounts team. You’ll help lead the architecture and implementation of new segments of their product suite, both from a frontend and backend point of view. You’ll work with Node.js, Vue.js, and serverless technology to ensure their billing and account platform is top-notch. You’ll really be key in helping to build the newest pieces of their platform.
+Apply Now!
+Braintrust Job ID: 4668
+C2C Candidates: This role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, SaaS, React, Consulting, Testing, DevOps, JavaScript, Serverless, Cloud, Senior, Junior, Marketing, Engineer, Backend and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Location
+Global
+href:https://www.remoteok.com/remote-jobs/remote-senior-software-engineer-braintrust-198343
+
+!!!FD031503
+name:Software Engineer
+day:22d
+location:Remote (Worldwide)
+pay:💰 $70k - $120k*
+tags:Software;Web3;NFT;Ethereum;React;Support;Developer;Mobile;Golang;Engineer
+company:Status SNT
+description:About Status
+Status is building the tools and infrastructure for the advancement of a secure, private, and open web3. 
+With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.
+As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community. 
+As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).
+As a team, Status has been completely distributed since inception. Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe. 
+We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.
+About Waku
+We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.
+It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.
+We are developing 3 open source implementations of Waku:
+Nwaku. https://github.com/waku-org/nwaku: the reference implementation and service node
+Js-waku, https://github.com/waku-org/js-waku: for the browser
+Go-waku: https://github.com/waku-org/go-waku: to integrate as a library in native applications
+We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.
+We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.
+Key Responsibilities
+Design, implement and document Waku Golang libraries (go-waku)
+Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku
+Implement new protocols as defined by the Research Team
+Investigate and fix issues in go-waku and upstream libraries such as go-libp2p
+Optimize go-waku and upstream libraries for the mobile/React Native
+Support dApp developers in using go-waku and Waku Golang libraries
+You ideally will have
+Experience building applications with complex logic, cutting edge technology or applied research
+Ability to learn new concepts and technologies quickly, you are a polyglot
+Experience maintaining native library for React Native
+Experience building libraries in Golang, for network and mobile environments
+Good communication skills (written and conversational)
+Strong alignment to our principles: https://status.im/about/#our-principles
+Bonus points if
+You are already familiar with the Ethereum community
+You have experience with go-libp2p or other libp2p implementations
+You have experience with C-Bindings & Cgo
+You are in Web3 or blockchain development
+You have experience working for an open source organization
+You have experience working async
+[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].
+Hiring Process
+Intro call with our People Ops team
+Interview with member of the Waku team
+Pair programming session with member of the Waku team
+Interview with Program Lead
+Compensation
+The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, React, Mobile, Golang, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+⏰ Async
+Location
+Remote (Worldwide)
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-status-snt-198336
+
+name:TypeScript Toolkit Engineer Apps Framework
+day:22d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Design;React;Front-End;Designer;Developer;Code;Web;Node JS;Typescript;Engineer;Backend
+company:Parity Technologies
+description:Parity Technologies builds core infrastructure for blockchains and Web 3.0 technologies. This means dealing with P2P networking, consensus algorithms, cryptography, databases, and decentralised applications. We strive to write the fastest, lightest, and safest core technology in Blockchain and write lots of open-source code.
+At Parity Technologies, we have built and launched live networks like Kusama and Polkadot atop the Substrate blockchain framework. We want to bring to these networks first-class end-to-end user experiences which tell a story of how easy it is to use these next-generation blockchains. For example, improving how users participate in network staking, how members of our governance systems present and vote on proposals, enabling simple integration of Substrate systems into web pages, improving how new users onboard into our ecosystem, and more…
+In this role, you’ll help bring to life an open-source TypeScript toolkit to enhance the Substrate / Web 3 developer experience. The aim of this toolkit is to reduce friction in creating efficient interactions with many chains. You will work in a small functional team with two front-end developers, one backend developer, and one designer to create core utilities, pattern libraries, and examples. This will be the basis for a new open source community, of which you’ll be a steward. We will all share the responsibility of triaging issues, engaging with developers, and assessing their needs. This role will surely evolve, and hopefully, you’ll help drive its evolution. There will be many ways to help the toolkit and its users succeed.
+About You:
+You have experience building both browser and NodeJS applications with TypeScript.
+You think deeply about paradigm-shifting tools, such as React and GraphQL.
+Well-designed APIs bring you immense joy.
+You have excellent communication skills.
+Writing legible, maintainable code is more important to you than are your stylistic preferences.
+To you, release announcements from the TypeScript team feel like special occasions. Maybe you even follow along with notes from the TypeScript team’s design meetings.
+You don’t need to be a blockchain expert. Just excited and willing to learn!
+Responsibilities:
+Collaborating with the team on design, roadmap and overall strategy
+Writing both low-level and high-level code
+Modeling chain interactions as type-safe, composable building blocks
+Documenting your creations
+Identifying bugs, bottlenecks and opportunities for improvement
+Actively participating in / supporting a new community in open source
+Good to have:
+Language design, compiler, interpreters.
+Creating and releasing open source
+Effect-oriented programming (ZIO, effect-ts)
+Knowledge of Web Assembly
+Not a perfect match to our requirements? We're happy to receive your application anyways and hear how you think you can help us achieve our mission.
+To see how we use your data please see our Applicant Notice.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, React, Typescript, Engineer, Backend and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-typescript-toolkit-engineer-apps-framework-parity-technologies-198322
+
+name:Integration Engineer
+day:20d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Defi;Ethereum;React;Front End;Game;Technical;Support;Developer;Software;Growth;Code;Web;Travel;Finance;Sales;Go;Engineer
+company:CoW Protocol
+description:About CoW Protocol 
+CoW Protocol is on a mission to create the fairest and most efficient venue for exchanging digital assets on all EVM-compatible chains. Since launching a year ago, we have passed $20bn (yes, billion) in trade volume, and become the 2nd most popular DEX Aggregator on the market -- aiming for #1. If you are a high-performing team player who wants to work on some of the most important problems in Ethereum (MEV protection, consumer protection, batch auctions, and more), we want to talk to you!
+Location: We are a fully remote team, and although we hire globally, there is a preference for this role to be based in Europe or remote +/- 3 hours CEST time
+Position: Full-time Contractor
+About the role
+You will be part of the frontend team and closely align and work together with the business development team. The goal for this role is to increase the amount of integrations of CoW Swap and grow the general ecosystem that’s built around CoW Swap. As part of your role you will examine and brainstorm new collaboration ideas with our partners, improve the SDK and general developer experience, work closely on our grants program (define bounties and evaluate submissions), and attend conferences and hackathons.
+What you’ll do
+Be CoW Protocol’s foremost expert on the developer audience. Work to understand the core needs, pain points, and motivations of external engineers that are tasked with evaluating and implementing CoW Protocol
+Structure documentation requirements for developers with varying objectives — from integrating CoW Protocol into their existing DeFi platforms to creating new solvers for the core protocol
+Develop features that foster fast integrations (e.g. easy to integrate widget for swapping)
+Help the CoW GrantsDAO in creating new technical bounties as well as assessing bounty applications and submissions
+Plan, oversee, and develop materials for CoW Protocol’s presence at hackathons. Travel the globe to be an on-hand resource for anywhere between 4-8 Ethereum conferences per year
+Shape the roadmap of CowSwap by collecting and scoping out new feature requests and proposing improvements that will accelerate the onboarding of new partners
+Attend sales calls between technical teams to assess deal potential, suggest other collaborations, and ideas, and evaluate priorities.
+Maintain excellent communication with current and potential partners in terms of onboarding and ongoing support.
+Who you are
+You have several years of experience developing professional client-side web apps
+Experience in Python, JS, React
+Experience designing restful API
+Automation of tools, docker
+A natural collaborator and problem solver
+Experience developing software solutions
+Extrovert, you enjoy talking to other devs and exploring new ideas for collaborations
+Excellent communication skills in English
+Excited by new challenges
+Proactive & hands-on! Sending code snippets to kick-start an integration can go a long way!
+It’s a plus if you bring:
+Understanding of the Ethereum blockchain and ecosystem, general finance and/or game theory, and mechanism design.
+Good to have other relevant languages, like Rust, C++, Solidity
+Good to have experience in consulting, on technology solutions or as a client-facing solutions architect, integrations engineer, or similar
+Our tech stack
+Product: Typescript, React, Redux, styled-components, Rust, Python, C++
+Web3 development: Web3, ethersjs, Hardhat, Foundry, Solidity, IPFS, TheGraph, ENS
+Testing: jest, cypress, React testing-library
+Analytic tools: Dune Analytics, Google Analytics
+What we can offer you
+Flexible work environment: join one of our hubs in Berlin or Lisbon or work remotely with the option of joining a local coworking space;
+Competitive compensation and a stake in the success of the project (token plan);
+Regular trips to reunite with the rest of the team;
+Conference budget to keep up to date with the developments of the ecosystem;
+Learning budget to support your higher ambitions;
+Impact: If you are joining a startup, and you can make a huge difference. Your work matters!
+But most importantly - grow with us! We're growing rapidly, the industry is expanding fast, and we have a lot to do. If you're someone who loves taking the initiative and getting things done, there are a lot of opportunities for you at CoW Protocol. We’re enthusiastic about our shared mission and enjoy spending time together!
+Culture
+Life in CoW Protocol is an amazing journey, we pride ourselves on how we work together. We like autonomy, we think big, and we have a growth mindset. We value initiatives and ownership. Our work is open source, designed code is publicly accessible - anyone can see, modify, and distribute the code as they see fit.
+Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other folks tend to only apply when they check every box. If you think you have what it takes but don't necessarily meet every single point on the job description, please still get in touch. We would love to hear from you.
+We look forward to your application!
+ 
+At CoW Protocol, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer: all qualified applicants are considered for positions regardless of race, ethnic origin, age, religion or belief, marital status, gender identification, sexual orientation, or physical ability.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Defi, React, Travel, Finance, Sales, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+📚 Learning budget
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-integration-engineer-cow-protocol-199353
+
+name:Web Developer
+day:20d
+location:Remote (Worldwide)
+pay:💰 $70k - $120k*
+tags:Developer;Web;Design;React;React JS;Embedded;Front End;Docker;Technical;Software;Testing;Code;Node JS;Lead;Branding
+company:Status SNT
+description:Status is an organization building the tools and infrastructure for the advancement of a secure, private, and open web3. We have been completely distributed since inception. Our team is currently 120+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe. We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.
+Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.
+In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. Acid.info is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.
+The role
+There are multiple departments embedded within our studio; Future Lab for experimentations, Press engine for copywriting, editing and content, Hype Machine for marketing and PR and The factory for production. Your primary role will be mainly within The Factory and so helping with the production line for studio’s projects including the ones from other departments. As secondary role you are always welcome to contribute and engage with other departments incase you are interested.
+As a Web Developer you are responsible for development and technical maintenance of various web-based projects in the studio. This includes development, deciding the overall architecture of the code-base, code reviews, writing tests, choosing the right tech-stack, deployment, and any other related tasks. You will be working closely with our PM/Creative Technologist and UI/UX Designer.
+Who you are
+You have circa 2 to 4 years of experience in Web Development
+You are passionate about web development and you keep up to date on the daily-born web technologies
+You care about open-source software and you can manage and maintain such projects
+You are flexible to work with creative minds and welcome experimentations
+Key responsibilities
+You will take care of all technical aspects of all web projects, from development and testing to deployment and maintenance:
+You will be improving the architecture and implementation of our current site-generator framework (built on top NextJS) and develop it further
+You will be developing and implementing internal tools, including our branding design portal and assets generator framework and a React library for our design systems
+You will co-write documentation for all the above mentioned products/projects
+You will be responsible for maintaining our open-sourced codebases on Github
+You ideally will have
+2 to 4 years of experience in ReactJS and NodeJs (all in Typescript)
+Good understanding of software architecture
+Experience in implementation of frontend libraries and design systems
+Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify
+A strong alignment to our principles: https://status.im/about/#our-principles
+Bonus points if
+You are comfortable in working remotely and asynchronously
+You have experience working for an open source organization
+You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)
+Compensation
+We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: https://people-ops.status.im/tag/perks/
+Hiring process
+Interview with People Ops
+Technical interview
+Assessment (paid)
+[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline]
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, React, Embedded, Docker, Testing and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+⏰ Async
+Location
+Remote (Worldwide)
+href:https://www.remoteok.com/remote-jobs/remote-web-developer-status-snt-199365
+
+name:Tech Lead
+day:19d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Design;Crypto;React;Security;Technical;Software;Code;Management;Lead;Senior;Analytics;Legal;Healthcare;Engineer;Engineering
+company:Magna
+description:About Magna
+Magna’s goal is to be the one-stop solution for all token-based crypto companies who want to track outstanding and promised token allocations, automate the distribution of those tokens, and manage information about their stakeholders. Some liken us to “Carta for Web3”.
+Our mission is to make it easier for crypto companies to manage their tokens and tokenholders so that they can focus on their product and not custom internal tools and smart contracts as they scale. We work with projects of all sizes throughout various L1 & L2 ecosystems.
+Tokens are amongst the core assets crypto companies use to compensate and incentivize investors, employees, advisors, and even community members. The most common use cases for Magna include:
+Token Vesting to employees and investors - Automated token distribution based on custom unlock schedules.
+Token Streaming - Continuous distribution of tokens to stakeholders.
+Airdrops - Vested airdrops to community members.
+Programmable Unlocks – Distributing tokens using our SDK based on contract interactions or in-app/in-game accomplishments.
+Stakeholder Management – Tracking tax liability and legal filings for tokenholders and more.
+Magna’s platform is used by investors, employees, accountants, lawyers, and other key stakeholders throughout the crypto ecosystem.
+Why Work at Magna?
+We’re a highly technical team
+This is a space with deep technical challenges that reward builders. The blockchain isn’t just a distributed ledger anymore, it’s a distributed state machine. At Magna, we’re not just building a new paradigm of software — we’re also trying to leverage the best of web2 while we’re at it.
+We’re a well-funded company with runway that can last us through the bear market (as long as that may be)
+A downtown Manhattan office with our own rooftop – we operate on a hybrid model, where most employees come in a couple of times per week.
+Hardware — Whatever you need to get things done, plus a stipend to set up your home office.
+Learning budget — Buy courses and attend conferences or hackathons.
+Unlimited Vacation — Take time off when you need it - 2 week minimum.
+Top-notch healthcare plans — We offer the best available platinum PPO and other similar plans that give you the most options with the lowest deductibles.
+About the Role
+The ideal tech lead is a senior software engineer who oversees the development of projects and mentors a team of engineers. By joining Magna, you will build the future of token management with us by making crucial decisions in the design and implementation of software architecture that scales.
+What you’ll do
+Own the software architecture and technical designs, providing technical leadership and expertise along the way
+Identify and mitigate technical risks
+Ensure that technical debt is kept under control
+Where appropriate, ensure code modularity in the code written by the team through peer code-reviews, to increase our team’s velocity and make our code infrastructure more scalable
+Work closely with the product owner to ensure that the roadmap is feasible and deadlines are realistic
+Review potential engineering candidates as we grow our footprint and scope
+What we’re looking for
+A team leader, or a senior software engineer ready to step up! Someone with directionally 5+ years of experience.
+Experience working with data-intensive applications, or apps used by tens of thousands of users
+Familiarity with our tech stack
+Based in New York City and open to a hybrid work environment
+Magna’s Tech Stack
+Magna is a multi-chain dapp, and our stack includes TypeScript, Next.js, React and GraphQL, as well as the native languages for various blockchains (i.e. Solidity, Rust, Move).
+Experience with any of these is nice to have, but not a requirement:
+DevOps, infrastructure, or data analytics experience
+Interfacing with smart contracts and blockchain via libraries (any blockchain).
+Applications where security and integrity is extremely important (finance, fintech, government, etc.)
+Reasons you might be the right candidate for this role
+Experience leading a team — You’re used to splitting up work, reviewing PRs, and holding the team to a high bar of technical excellence and thoughtful
+Passion for engineering — genuine passion and curiosity for the craft that you bring to work each day
+Good taste — You think critically about how you build what you build, and apply good judgment to every design and implementation decision along the way.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, Crypto, React, Senior, Legal, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+🏖 Unlimited vacation
+📚 Learning budget
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-tech-lead-magna-199865
+
+name:Senior Software Engineer
+day:19d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Software;Design;Crypto;React;Security;Technical;Code;Senior;Operations;Analytics;Legal;Healthcare;Engineer
+company:Magna
+description:About Magna
+Magna’s goal is to be the one-stop solution for all token-based crypto companies who want to track outstanding and promised token allocations, automate the distribution of those tokens, and manage information about their stakeholders. Some liken us to “Carta for Web3”.
+Our mission is to make it easier for crypto companies to manage their tokens and tokenholders so that they can focus on their product and not custom internal tools and smart contracts as they scale. We work with projects of all sizes throughout various L1 & L2 ecosystems.
+Tokens are amongst the core assets crypto companies use to compensate and incentivize investors, employees, advisors, and even community members. The most common use cases for Magna include:
+Token Vesting to employees and investors - Automated token distribution based on custom unlock schedules.
+Token Streaming - Continuous distribution of tokens to stakeholders.
+Airdrops - Vested airdrops to community members.
+Programmable Unlocks – Distributing tokens using our SDK based on contract interactions or in-app/in-game accomplishments.
+Stakeholder Management – Tracking tax liability and legal filings for tokenholders and more.
+Magna’s platform is used by investors, employees, accountants, lawyers, and other key stakeholders throughout the crypto ecosystem.
+Why Work at Magna?
+We’re a highly technical team
+This is a space with deep technical challenges that reward builders. The blockchain isn’t just a distributed ledger anymore, it’s a distributed state machine. At Magna, we’re not just building a new paradigm of software — we’re also trying to leverage the best of web2 while we’re at it.
+We’re a well-funded company with runway that can last us through the bear market (as long as that may be)
+A downtown Manhattan office with our own rooftop – we operate on a hybrid model, where most employees come in a couple of times per week.
+Hardware — Whatever you need to get things done, plus a stipend to set up your home office.
+Learning budget — Buy courses and attend conferences or hackathons.
+Unlimited Vacation — Take time off when you need it - 2 week minimum.
+Top-notch healthcare plans — We offer the best available platinum PPO and other similar plans that give you the most options with the lowest deductibles.
+About the Role
+Build the future of token operations with us by designing and implementing software architecture that scales. We’re looking for someone comfortable going from zero-to-one and rapidly iterating on hackathon-style projects with other engineers as we grow.
+What you’ll do
+Work on the forefront of token distribution technology at the infrastructure level, solving edge-cases around token distribution, writing smart contracts for tokens worth millions of dollars
+Build polished user experiences and applications
+Where appropriate, ensure code modularity in the code written by the team through peer code-reviews, to increase our team’s velocity and make our code infrastructure more scalable
+Write tests to make sure that things work when we ship them. If our users can’t use the app, they can’t get paid!
+What we’re looking for
+Experience working with data-intensive applications, or apps used by tens of thousands of users
+Comfortable working in sprint cycles and willing to bite the bullet when critical issues pop up
+Familiarity with our tech stack
+Based in New York City and open to a hybrid work environment
+Magna’s Tech Stack
+Magna is a multi-chain dapp, and our stack includes TypeScript, Next.js, React and GraphQL, as well as the native languages for various blockchains (i.e. Solidity, Rust, Move).
+Experience with any of these is nice to have, but not a requirement:
+DevOps, infrastructure, or data analytics experience
+Interfacing with smart contracts and blockchain via libraries (any blockchain).
+Applications where security and integrity is extremely important (finance, fintech, government, etc.)
+Reasons you might be the right candidate for this role:
+Passion for engineering — genuine passion and curiosity for the craft that you bring to work each day
+Good taste — You think critically about how you build what you build, and apply good judgment to every design and implementation decision along the way.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, Crypto, React, Senior, Legal, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+🏖 Unlimited vacation
+📚 Learning budget
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-senior-software-engineer-magna-199874
+
+name:Web3 Full stack Engineer
+day:19d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Web3;Design;Crypto;Ethereum;React;Security;Technical;Developer;Software;Code;Operations;Analytics;Legal;Healthcare;Engineer
+company:Magna
+description:About Magna
+Magna’s goal is to be the one-stop solution for all token-based crypto companies who want to track outstanding and promised token allocations, automate the distribution of those tokens, and manage information about their stakeholders. Some liken us to “Carta for Web3”.
+Our mission is to make it easier for crypto companies to manage their tokens and tokenholders so that they can focus on their product and not custom internal tools and smart contracts as they scale. We work with projects of all sizes throughout various L1 & L2 ecosystems.
+Tokens are amongst the core assets crypto companies use to compensate and incentivize investors, employees, advisors, and even community members. The most common use cases for Magna include:
+Token Vesting to employees and investors - Automated token distribution based on custom unlock schedules.
+Token Streaming - Continuous distribution of tokens to stakeholders.
+Airdrops - Vested airdrops to community members.
+Programmable Unlocks – Distributing tokens using our SDK based on contract interactions or in-app/in-game accomplishments.
+Stakeholder Management – Tracking tax liability and legal filings for tokenholders and more.
+Magna’s platform is used by investors, employees, accountants, lawyers, and other key stakeholders throughout the crypto ecosystem.
+Why work at Magna?
+We’re a highly technical team
+We love the openness and transparency of web3, but we’re working in the space because of the deep technical challenges that reward builders.
+The blockchain isn’t just a distributed ledger anymore, it’s a distributed state machine. At Magna, we’re not just building a new paradigm of software — we’re also trying to leverage the best of web2 while we’re at it. It’s amazing fun if you’re a developer who’s new to web3 and able to appreciate a lot of beautiful technical-first design decisions for the first time. (Have you ever tried to match a CUSIP number before?? It’s painful.)
+We’re a well-funded company with runway that can last us through the bear market
+A downtown NYC office with our own rooftop – We have a 3,300 sqft office in Soho, with a private roof. We operate on a hybrid model, where most employees come in a couple of times per week.
+Hardware — Whatever you need to get things done, plus a stipend to set up your home office.
+Learning budget — Buy courses and attend conferences or hackathons.
+Monthly Wellness Stipend — Take care of yourself, whatever that means for you!
+Unlimited Vacation — Take time off when you need it - 2 week minimum.
+Top-notch healthcare plans — We offer the best available platinum PPO and other similar plans that give you the most options with the lowest deductibles.
+Ability to take ownership and build out functions within your department
+About the Role
+Build the future of token operations with us by designing and implementing software architecture that scales. We’re looking for someone comfortable going from zero-to-one and rapidly iterating on projects while making carefully calculated decisions.
+What you’ll do
+Work on the forefront of token distribution technology at the infrastructure level and solve edge-cases around token distribution
+Build polished dApps responsible for tokens worth millions of dollars
+Where appropriate, ensure code modularity in the code written by the team through peer code-reviews, to increase our team’s velocity and make our code infrastructure more scalable
+Write tests to make sure that things work when we ship them. If our users can’t use the app, they can’t get paid!
+What we’re looking for
+Professional experience working on dApps and integrating pre-written smart contracts into dApps - please note that this is a hard requirement
+Knowledge of how smart contracts work, Ethereum signatures, wallet connections, and transaction signing/execution
+Strong experience with web3 libraries such as web3.js, ethers.js, wagmi.
+Experience working with data-intensive applications, or apps used by tens of thousands of users
+Comfortable working in sprint cycles and willing to bite the bullet when critical issues pop up
+Familiarity with our tech stack
+Magna’s Tech Stack
+Magna is a multi-chain dApp, and our stack includes TypeScript, Next.js, React and GraphQL, as well as the native languages for various blockchains (i.e. Solidity, Rust, Move).
+Experience with any of these is nice to have, but not a requirement:
+DevOps, infrastructure, or data analytics experience
+Applications where security and integrity is extremely important (finance, fintech, government, etc.)
+﻿Reasons you might be the right candidate for this role:
+Curiosity — keeping up with advancements and best practices in web3 can be tiring, but you try anyways!
+Passion for engineering — genuine passion and curiosity for the craft that you bring to work each day
+Good taste — you think critically about how you build what you build, and apply good judgment to every design and implementation decision along the way.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, Design, Crypto, React, Legal, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+🏖 Unlimited vacation
+📚 Learning budget
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-web3-full-stack-engineer-magna-199877
+
+name:Software Engineer
+day:19d
+location:Remote (Worldwide)
+pay:💰 $70k - $120k*
+tags:Software;Web3;NFT;Ethereum;React;Support;Developer;Mobile;Golang;Engineer
+company:Status SNT
+description:About Status
+Status is building the tools and infrastructure for the advancement of a secure, private, and open web3. 
+With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.
+As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community. 
+As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).
+As a team, Status has been completely distributed since inception. Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe. 
+We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.
+About Waku
+We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.
+It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.
+We are developing 3 open source implementations of Waku:
+Nwaku. https://github.com/waku-org/nwaku: the reference implementation and service node
+Js-waku, https://github.com/waku-org/js-waku: for the browser
+Go-waku: https://github.com/waku-org/go-waku: to integrate as a library in native applications
+We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.
+We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.
+Key Responsibilities
+Design, implement and document Waku Golang libraries (go-waku)
+Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku
+Implement new protocols as defined by the Research Team
+Investigate and fix issues in go-waku and upstream libraries such as go-libp2p
+Optimize go-waku and upstream libraries for the mobile/React Native
+Support dApp developers in using go-waku and Waku Golang libraries
+You ideally will have
+Experience building applications with complex logic, cutting edge technology or applied research
+Ability to learn new concepts and technologies quickly, you are a polyglot
+Experience maintaining native library for React Native
+Experience building libraries in Golang, for network and mobile environments
+Good communication skills (written and conversational)
+Strong alignment to our principles: https://status.im/about/#our-principles
+Bonus points if
+You are already familiar with the Ethereum community
+You have experience with go-libp2p or other libp2p implementations
+You have experience with C-Bindings & Cgo
+You are in Web3 or blockchain development
+You have experience working for an open source organization
+You have experience working async
+[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].
+Hiring Process
+Intro call with our People Ops team
+Interview with member of the Waku team
+Pair programming session with member of the Waku team
+Interview with Program Lead
+Compensation
+The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, React, Mobile, Golang, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+⏰ Async
+Location
+Remote (Worldwide)
+href:https://www.remoteok.com/remote-jobs/remote-software-engineer-status-snt-199869
+
+name:Lead Developer
+day:18d
+location:Remote job
+pay:💰 $70k - $120k*
+tags:Developer;Design;React;Front-End;Full-Stack;Founder;Technical;Support;Growth;Code;JavaScript;Investment;Cloud;Git;API;Lead;E-Commerce
+company:Venturerock
+description:About Venturerock
+Venturerock is an early-stage digital venture capital platform and ecosystem of founders, backers & builders.
+Together, we have transformed the venture capital model into a venture building model, to build & grow tech companies into global tech leaders. We have combined technology and our experience in accelerating 700+ startups to design our own investment protocol. Our founder team has been part of companies like Just-Eat, iChoosr, Exact, Relayr to mention a few. We invest in multiple rounds from pre-seed to scale, through a metered and auditable process.
+Responsibilities for this Lead developer role for "Drop-ET":
+You will use our blueprint to build, measure, learn and pivot your way to a profitable and thriving company. This does not mean everything is set in stone because our founders will need to put their own stamp on everything they're doing. Later, you'll assemble a dedicated team and define a unique company culture.
+Some technical founder activities include:
+Design and build the technical blueprint of the company;
+Building the (cloud) infrastructure;
+Product development;
+Managing every technical detail;
+Build and hire a development team;
+Scaling the operation.
+Of course, there is more to do, but you don’t have to do it all by yourself. You'll be accompanied by a co-founder to take on this great challenge. Also, our FoundersLAB is available to support you during the first rough months.
+Problem Statement:
+Drop-ET is a Smart Logistics Platform for the APAC countries. Due to enormous growth in e-commerce A-Brands have been hijacking all delivery capacity in India. Delivery companies are overbooked, and the rest of the non-A brand e-commerce companies don’t have access to reliable delivery.
+With Drop-ET we help delivery companies and medium-sized e-commerce companies get in control again. We are developing a fully equipped delivery EV, attainable for everyone. No CAPEX, everyone can immediately start as a delivery agent and they only pay-per-use. This delivery EV is connected to our platform, this means better routes, extra orders and collecting POI data during your Drop-ET rides. This amazing adventure still has some essential seats left. Do you want to hop on board of our EV and join our journey to a smarter Indian transport
+ecosystem?
+You have 5+ experience as a full-stack developer (i.e. front-end and back-end);
+Strong experience with modern JavaScript (ES2017), Node.js, HTML,
+CSS/SCSS, REACT as a framework and composition.
+Experience with Restful API design, containerization (mostly docker), microservices, event-driven architecture, cloud architecture and understanding of data structures and algorithms.
+Working in a fast-paced Continuous Integration & Deployment environment gets you excited.
+Enforce code quality through Test-Driven Development and linting.
+You know how Git works.
+You’re proud of your work and welcome all feedback.
+You are experienced in developing, testing, shipping and maintaining products under pressure;
+You’re self-learning, independent, and have excellent problem-solving skills.
+Working with Scrum/Agile working is second nature to you.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, React, JavaScript, Cloud, Git, API and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Location
+Remote job
+href:https://www.remoteok.com/remote-jobs/remote-lead-developer-venturerock-200379
+
+name:Senior Frontend & Web3 Engineer
+day:17d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Web3;Front End;Defi;Crypto;React;System;Front-End;Cto;Technical;Software;Code;Web;Financial;Senior;Marketing;Analytics;Engineer;Engineering
+company:Premia Jobs
+description:Senior Frontend & Web3 Engineer - Remote
+Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds. Offering non-custodial options to hedge, speculate, or earn yield on your digital assets. Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing. Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options. We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote. We’re looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more. Who are you?A senior-level front-end engineer (JS/TS + React veteran) who is also crypto-native. At the very least, you understand and hold crypto assets or ideally have developed decentralized applications leveraging blockchain technology before, preferably EVM-compatible. 
+You are passionate about building bleeding-edge technology for the next iteration of the internet with the use of cryptography and understand the necessity for building beautiful and user-friendly GUIs in order to facilitate the transition to web3. 
+You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.
+You can write and speak fluent English and have great communication skills.
+The Role:Engineers at Premia work with our CTO and our existing engineering team to innovate, architect, and develop user-facing features and new iterations of the Premia app, as well as our event indexing system (The Graph).
+In addition, you will work closely with other departments such as Design, QA, Operations, and Marketing teams to successfully execute the implementation, testing, and deployment of new features.
+As a senior engineer, you will help (mentor) other members of the team, and will make sure components and app pages are well optimized and running smoothly. 
+Responsibilities-Design, scope, and estimate complex features at the component level.-Build, test, and ship features, patches, and updates to our web app.-Collaborate with the team and cross-functional partners on all aspects of product development.-Identify and advocate for team-wide areas of improvement and best practices.-Mentor team members to refine their technical and architectural skills.-Help maintain our subgraph repository written in AssemblyScript (JS subset)
+Requirements-Experience owning and shipping products-5+ years of industry experience in software engineering
+-A mastery of Javascript, Typescript, and React with an understanding of encryption and cryptography fundamentals.
+-Experience working with GraphQL-Basic web3 understanding: Wallets, transactions, explorers, POW/POS, gas price, etc.-Ability to quickly iterate and ship code using test-driven development patterns-Ability to build modern, event-driven React frontends, converting Figma designs into functional components-Mastery of CSS, preferably via a library like MaterialUI-Experience with version control, such as Git-Knowledge of engineering best practices such as continuous integration-Exceptional judgment, problem-solving skills, and an analytical mindset-Ability to work in areas beyond your comfort zone and motivated by personal growth-A passion for learning and a self-awareness of your learning style-(Nice to have) Previous experience with web3.js or ethers.js libraries. 
+BenefitsWork from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto). Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.
+To find out more you can view their website at https://premia.finance/
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Web3, Defi, Crypto, React, Senior, Marketing and Engineer jobs that are similar:
+$70,000 — $120,000/year
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-senior-frontend-web3-engineer-premia-jobs-200892
+
+name:Senior Frontend Engineer Ecosystem
+day:17d
+location:Worldwide
+pay:💰 $70k - $120k*
+tags:Front End;Design;Crypto;Ethereum;React;Front-End;Security;Technical;Support;Software;Growth;UI;Code;Web;JavaScript;Typescript;Senior;Analytics;Recruiting;Engineer
+company:OP Labs
+description:From the code to the values, we are Ethereum-aligned. We believe Ethereum has the potential to solve some of humanity’s most crucial coordination issues. Since our initial inception as a non-profit research group, we have have sought to scale both its technology and values.
+At present the most pressing bottleneck to the growth of Ethereum is its performance and scalability. We are building the most elegant solution to this problem. We do this out in the open because we believe in open source and its ability to accelerate innovation.
+Not only do we improve Ethereum's performance by orders of magnitude, we donate 100% of the profits generated from doing so to Ethereum public goods. We do this because we believe the future of the open internet is too important to be left to chance. By operating as a Public Benefit Corporation we're able to align private incentives with public good and create a positive-sum economic model that provides a sustainable future for the internet.
+We are hiring a Frontend Engineer to join our Ecosystem pod in building products that drive growth to Optimism. The person in this role will work closely with product, design and analytics teams and have a meaningful impact on the Optimism user experience.
+What are the role responsibilities?
+Shape and build products that drive growth of the protocol
+Contribute to iterations on Optimism’s governance and identity work
+Work with launch partners from across the Ethereum ecosystem
+Collect and provide feedback on the Optimism builder experience
+Work with design team to fine-tune the Optimism design system
+Create smooth and elegant user experience with modern-day Javascript based UI frameworks like React
+What skills do you bring?
+A strong background in product-centric software development
+A strong background in product-centric software development
+Experience working on a highly cross-functional team
+Fluency in React and Typescript with knowledge of current best practices and understanding of the trends and technical progression of web frameworks and design patterns
+Familiarity with front-end architecture, including performance, security and usability
+Experience implementing web experiences for desktop and responsive experiences for mobile
+Knowledge of blockchain fundamentals and the crypto landscape a strong plus
+Recent Eosystem Pod projects:
+Quests (onboarding)
+The AttestationStation (identity layer)
+The Optimist NFT (identity layer)
+What you'll like about us:
+We take care of our employees—from fully paid medical, dental and vision to a 4% 401K match, we've got you covered—learn more about our benefits, culture and all recruiting FAQ here.
+We take pride in the accomplishments of our teammates and support each other in doing the best work of our careers.
+Our team is a diverse group of people from a variety of backgrounds and interests. We cherish our eclecticism and consider it a great strength.
+We have a transparent, feedback-driven and fun-centric culture.
+We are a team of builders—our founding team has been working on Ethereum scalability since 2015.
+We strongly encourage candidates of all different backgrounds to apply. We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Optimism, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career.
+Salary and compensation
+No salary data published by company so we estimated salary based on similar jobs related to Design, Crypto, React, JavaScript, Typescript, Senior, Engineer and Digital Nomad jobs that are similar:
+$70,000 — $120,000/year
+Benefits
+💰 401(k)
+Location
+Worldwide
+href:https://www.remoteok.com/remote-jobs/remote-senior-frontend-engineer-ecosystem-op-labs-200893
+
